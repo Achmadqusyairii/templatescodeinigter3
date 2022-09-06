@@ -27,7 +27,10 @@
       <!-- /.search form -->
       <!-- sidebar menu: : style can be found in sidebar.less -->
       <ul class="sidebar-menu" data-widget="tree">
-        <li class="header">MAIN NAVIGATION</li>
+        <li class="header">MASTER DATA</li>
+        <li><a href=#><i class="fa fa-usd"></i> <span>NOMOR RUMAH</span></a></li>
+        <li><a href=#><i class="fa fa-usd"></i> <span>JENIS PEMBAYARAN</span></a></li>
+        <li><a href=#><i class="fa fa-usd"></i> <span>Dana Masuk</span></a></li>
         <li><a href=#><i class="fa fa-usd"></i> <span>Dana Masuk</span></a></li>
         
       </ul>
